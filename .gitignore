@@ -1,2 +1,12 @@
 # macOS
 .DS_Store
+
+# Node
+node_modules/
+
+# Python
+my-env/
+.venv/
+__pycache__/
+*.pyc
+.env
